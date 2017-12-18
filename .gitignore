@@ -1,0 +1,8 @@
+bin
+cocos2d
+dts.xcworkspace
+proj.android
+proj.android-studio
+proj.ios_mac
+proj.linux
+proj.win32
